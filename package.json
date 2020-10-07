@@ -1,0 +1,25 @@
+{
+  "name": "gellary-homework8-npm",
+  "version": "1.0.0",
+  "description": "npm-practice on homework_8",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonlazurko/gellary-homework8-npm.git"
+  },
+  "author": "anton <YOUR_EMAILnpm config set init.author.name YOUR_NAME\nnpm config set init.author.email YOUR_EMAIL>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonlazurko/gellary-homework8-npm/issues"
+  },
+  "homepage": "https://github.com/antonlazurko/gellary-homework8-npm#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "parcel-bundler": "^1.12.4"
+  }
+}
